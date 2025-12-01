@@ -189,6 +189,10 @@ pip install autollm>=0.1.9
 from whisperplus.pipelines.autollm_chatbot import AutoLLMChatWithVideo
 
 # service_context_params
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/whisper-plus?style=social)](https://github.com/yksanjo/whisper-plus/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/whisper-plus.svg)](https://github.com/yksanjo/whisper-plus/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/whisper-plus.svg)](https://github.com/yksanjo/whisper-plus/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/whisper-plus.svg)](https://github.com/yksanjo/whisper-plus/commits/main)
+
 system_prompt = """
 You are an friendly ai assistant that help users find the most relevant and accurate answers
 to their questions based on the documents you have access to.
